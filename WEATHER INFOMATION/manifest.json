@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
   
-    "name": "WeatherInfo",
+    "name": "Weather Infomation",
     "description": "This extension allows the user to check the weather simply.",
     "version": "1.0",
   

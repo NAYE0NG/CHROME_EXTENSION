@@ -1,6 +1,6 @@
-function weatherinfo(lat,lon){//날씨 정보 받아오기
+var key="f6efb4d1aa9ee600c5e3784f8e55e592";
 
-        var key="f6efb4d1aa9ee600c5e3784f8e55e592";
+function weatherinfo(lat,lon){//날씨 정보 받아오기
 
         var xmlhttp = new XMLHttpRequest();
         xmlhttp.onreadystatechange = function() {
