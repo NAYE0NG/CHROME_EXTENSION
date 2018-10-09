@@ -19,7 +19,7 @@
 <br />
 
 ***
-#### Google Drive Upload : 실시간 내 위치 날씨 알림
+#### Google Drive Upload : 구글 드라이브 드래그 업로드 
 ***
 설명 : 파일을 popup창에 드래그 하여 구글 드라이브에 업로드 해주는 크롬 확장 어플리케이션  
 
